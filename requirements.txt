@@ -1,4 +1,2 @@
 Flask
 requests
-google-auth
-google-auth-oauthlib
